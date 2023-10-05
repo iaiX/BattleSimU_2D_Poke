@@ -6,7 +6,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "gifler": "^0.1.0",
-    "netlify": "^3.0.0"
+    "netlify": "^13.1.10"
   },
   "devDependencies": {},
   "scripts": {
